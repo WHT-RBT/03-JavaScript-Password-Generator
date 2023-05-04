@@ -38,7 +38,7 @@ The following screenshots show the password generator's appearance and functiona
 ![Uppercase](image4.png)
 ![Generated Password](image5.png)
 
-Live GitHub Link:
+Live GitHub Link: https://wht-rbt.github.io/03-JavaScript-Password-Generator/
 
 GitHub Repository: https://github.com/WHT-RBT/03-JavaScript-Password_Generator
 
